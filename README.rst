@@ -16,16 +16,16 @@ Installation
 
 There are several ways of getting the simulator.
 
-* *Using PyPi*: great if you want to use the package as part of your
+* **PyPi**: great if you want to use the package as part of your
   application::
 
       pip install turing_machine
 
-* *git*: if you want to get all the files, most importantly `the notebook`_::
+* **git**: if you want to get all the files, most importantly `the notebook`_::
 
       git clone https://github.com/dimazest/turing_machine.git
 
-* *github*: if you don't bother using git::
+* **github**: if you don't bother using git::
 
       wget https://github.com/dimazest/turing_machine/archive/master.zip
 

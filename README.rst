@@ -45,7 +45,16 @@ Using the simulator inside of a Python script
 =============================================
 
 If you dont want to be bother with IPython, you can use the simulator inside of
-your own script, see ``w_hash_w.py`` for an example.
+your own script, see ``w_hash_w.py``, for example::
+
+    python w_hash_w.py
+    q0                             [1]0#10
+    FindDelimiter1                 X[0]#10
+    FindDelimiter1                 X0[#]10
+
+    ...    MANY OTHER CONFIGURATIONS   ...
+
+    qa                             XX#XX[]
 
 The API
 =======

@@ -25,7 +25,7 @@ class PyTest(TestCommand):
 
 setup(
     name='turing_machine',
-    version=0.1,
+    version=1.0,
     url='https://github.com/dimazest/turing_machine',
     author="Dmitrijs Milajevs",
     author_email="dimazest@gmail.com",

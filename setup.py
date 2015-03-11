@@ -32,7 +32,7 @@ setup(
     description='Turing Machine as a Python Generator.',
     long_description=open("README.rst").read(),
     license='MIT',
-    packages=find_packages('turing_machine.py'),
+    py_modules=('turing_machine',),
     package_data={'': [
             'LICENSE',
             'README.rst',
